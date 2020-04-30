@@ -2,7 +2,11 @@
 
 ## Module 2
 
-Homework option 1 solution 
+Homework option 1 solution
+
+## Demo
+
+https://ninakwelch.github.io/homework_solution/
 
 ## Screenshots
 
