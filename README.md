@@ -8,5 +8,5 @@ Homework option 1 solution
 
 ![](https://res.cloudinary.com/ninaw/image/upload/c_scale,h_850,w_620/v1588213835/homework_index_web_p5wvxd.png)
 ![](https://res.cloudinary.com/ninaw/image/upload/c_scale,h_850/v1588213826/homework_index_mobile_rwsw9o.png)
-![]()
+![](https://res.cloudinary.com/ninaw/image/upload/c_scale,w_620/v1588213859/homework_page2_web_rpmmao.png)
 ![]()
